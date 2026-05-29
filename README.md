@@ -1,9 +1,9 @@
-# ✨ MagicSelf AI — Selfie-to-Artwork Generator SaaS
+# ✨ MagicSelf AI — Open-Source AI Selfie-to-Artwork Generator SaaS (Free Lensa AI / Prisma Alternative)
 
-> **Transform your selfies into stunning AI-generated artwork instantly.** Convert selfies into Oil Paintings, Watercolors, Digital Art, Anime, and more using Nano Banana 2. A production-ready, self-hostable Next.js SaaS. Powered by MuAPI's `nano-banana-2-edit` model.
+> **Transform any selfie into oil paintings, watercolors, anime, digital art, and more in seconds.** A production-ready, self-hostable Next.js SaaS boilerplate with multiple art style presets, webhook-backed async delivery, and built-in Stripe billing. A free open-source alternative to Lensa AI, Prisma, ToonMe, and Meitu — powered by the MuAPI AI engine.
 
-**Tech stack:** Next.js 16 (App Router) · Prisma · PostgreSQL · NextAuth (Google OAuth) · Stripe · Tailwind CSS · MuAPI (nano-banana-2-edit) · Webhook-backed async delivery  
-**Use cases:** Creative avatar creation · Digital art gifts · Social media profile styling · Personalized print designs
+**Tech stack:** Next.js 14 (App Router) · Prisma · PostgreSQL · NextAuth (Google OAuth) · Stripe · Tailwind CSS · MuAPI nano-banana-2-edit · Webhook-backed async delivery
+**Use cases:** AI avatar creation · Social media profile art · Digital art gifts · Print-on-demand portraits · Creative selfie apps · NFT avatar generation · Personal branding · Anime art communities
 
 ![MagicSelf AI Interface](https://cdn.muapi.ai/data/2/661300328104/Screenshot_2026-05-29_143653.png)
 
