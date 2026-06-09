@@ -1,4 +1,5 @@
 const config = {
+  appName: "Magicself Ai",
   auth: {
     google: {
       clientId: process.env.GOOGLE_CLIENT_ID,
