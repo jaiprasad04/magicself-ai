@@ -15,6 +15,8 @@
 
 > 🎨 **[Explore 50+ more open-source AI apps →](https://github.com/Anil-matcha/awesome-generative-ai-apps)**
 
+https://github.com/user-attachments/assets/ea5b3cbe-c7f4-467e-8ee2-18629e833ba4
+
 ## 🌐 Project Details
 
 **GitHub Repository:** [github.com/SamurAIGPT/magicself-ai](https://github.com/SamurAIGPT/magicself-ai)
